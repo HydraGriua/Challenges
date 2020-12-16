@@ -1,0 +1,13 @@
+C:\Users\FLAVIO\Desktop\Challenges\Advent\Day2\obj\Debug\netcoreapp3.1\Day2.csprojAssemblyReference.cache
+C:\Users\FLAVIO\Desktop\Challenges\Advent\Day2\obj\Debug\netcoreapp3.1\Day2.AssemblyInfoInputs.cache
+C:\Users\FLAVIO\Desktop\Challenges\Advent\Day2\obj\Debug\netcoreapp3.1\Day2.AssemblyInfo.cs
+C:\Users\FLAVIO\Desktop\Challenges\Advent\Day2\obj\Debug\netcoreapp3.1\Day2.csproj.CoreCompileInputs.cache
+C:\Users\FLAVIO\Desktop\Challenges\Advent\Day2\bin\Debug\netcoreapp3.1\Day2.exe
+C:\Users\FLAVIO\Desktop\Challenges\Advent\Day2\bin\Debug\netcoreapp3.1\Day2.deps.json
+C:\Users\FLAVIO\Desktop\Challenges\Advent\Day2\bin\Debug\netcoreapp3.1\Day2.runtimeconfig.json
+C:\Users\FLAVIO\Desktop\Challenges\Advent\Day2\bin\Debug\netcoreapp3.1\Day2.runtimeconfig.dev.json
+C:\Users\FLAVIO\Desktop\Challenges\Advent\Day2\bin\Debug\netcoreapp3.1\Day2.dll
+C:\Users\FLAVIO\Desktop\Challenges\Advent\Day2\bin\Debug\netcoreapp3.1\Day2.pdb
+C:\Users\FLAVIO\Desktop\Challenges\Advent\Day2\obj\Debug\netcoreapp3.1\Day2.dll
+C:\Users\FLAVIO\Desktop\Challenges\Advent\Day2\obj\Debug\netcoreapp3.1\Day2.pdb
+C:\Users\FLAVIO\Desktop\Challenges\Advent\Day2\obj\Debug\netcoreapp3.1\Day2.genruntimeconfig.cache
